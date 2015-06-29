@@ -1,0 +1,23 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.classpath
+.target
+dist/*
+target/*
+lib_managed/*
+src_managed/*
+project/boot/*
+project/plugins/project/*
+project/project/*
+project/target/*
+
+# IntelliJ IDEA specific
+.idea
+
+
+activator
+activator.bat
+activator-launch-*.jar
